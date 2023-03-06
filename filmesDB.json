@@ -194,7 +194,8 @@
             "category": ["Ação", "Aventura"],
             "description": "Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf2hlb.php?vid=HMNFRMGA",
+                "filmeLink": "/movies/Homem-formiga.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=HMNFRMGA",
                 "torrent": ""
             },
             "images": {
@@ -210,7 +211,8 @@
             "category": ["Aventura", "Fantasia"],
             "description": "Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf4hlb.php?vid=HMNFRMGEVSPA",
+                "filmeLink": "/movies/Homem-formiga-2.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=HMNFRMGEVSPA",
                 "torrent": ""
             },
             "images": {
@@ -226,7 +228,8 @@
             "category": ["Aventura", "Ação"],
             "description": "“Black Panther”, da Marvel Studios, segue T’Challa, que, após a morte de seu pai, o rei de Wakanda, retorna para a nação africana isolada e tecnologicamente avançada para suceder ao trono e tomar seu lugar como rei. Mas quando um velho e poderoso inimigo reaparece, a coragem de T’Challa como rei – e Pantera Negra – é testada quando ele é atraído por um conflito formidável que coloca em risco o destino de Wakanda e do mundo inteiro. Diante da traição e do perigo, o jovem rei deve reunir seus aliados e liberar todo o poder do Pantera Negra para derrotar seus inimigos e garantir a segurança de seu povo e seu modo de vida.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf4hlb.php?vid=PNTRNGR",
+                "filmeLink": "/movies/Pantera-negra.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=PNTRNGR",
                 "torrent": ""
             },
             "images": {
@@ -242,7 +245,8 @@
             "category": ["Ação", "Ficção científica"],
             "description": "Abduzido da Terra quando ainda era criança, Peter Quill (Chris Pratt) fez carreira como saqueador e se auto denominou “Senhor das Estrelas”. Quando rouba uma esfera, na qual o poderoso vilão Ronan, da raça kree, está interessado, passa a ser procurado por vários caçadores de recompensas. Para escapar do perigo, Quill une forças com quatro personagens fora do sistema: Groot, uma árvore humanóide (Vin Diesel), a sombria e perigosa Gamora (Zoe Saldana), o guaxinim rápido no gatilho Rocket Racoon (Bradley Cooper) e o vingativo Drax, o Destruidor (Dave Bautista). A esfera roubada é capaz de mudar o destino de todo o universo.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf2hlb.php?vid=GRDOESDGLXIA",
+                "filmeLink": "/movies/Guardioes-da-galaxia.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=GRDOESDGLXIA",
                 "torrent": ""
             },
             "images": {
@@ -258,7 +262,8 @@
             "category": ["Ficção científica", "Ação"],
             "description": "Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf4hlb.php?vid=GRDOESDGLXIAVL2",
+                "filmeLink": "/movies/Guardioes-da-galaxia-2.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=GRDOESDGLXIAVL2",
                 "torrent": ""
             },
             "images": {
@@ -274,7 +279,8 @@
             "category": ["Ação", "Aventura"],
             "description": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete “Maverick” Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf5hlb.php?vid=TOPGNMVRCK",
+                "filmeLink": "/movies/Top-gun.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=TOPGNMVRCK",
                 "torrent": ""
             },
             "images": {
@@ -290,7 +296,8 @@
             "category": ["Ficção científica", "Aventura"],
             "description": "Um parque construído por um milionário tem dinossauros diversos como habitantes, extintos a sessenta e cinco milhões de anos. Isto é possível por ter sido encontrado um inseto fossilizado, que tinha sugado sangue destes dinossauros, de onde pôde-se isolar o DNA, o código químico da vida e, a partir deste ponto, recriá-los em laboratório. Mas, o que parecia ser um sonho se torna um pesadelo, quando a experiência sai do controle de seus criadores.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK01",
+                "filmeLink": "/movies/Jurassic-park.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK01",
                 "torrent": ""
             },
             "images": {
@@ -306,7 +313,8 @@
             "category": ["Ficção científica", "Ação"],
             "description": "John Hammond chama o teórico do caos Ian Malcolm à sua casa para dar algumas notícias aterradoras: Enquanto quase tudo em Jurassic Park foi destruído, seus engenheiros parecem ter um segundo local, onde outros dinossauros estão escondidos. Aparentemente, os dinossauros na segunda ilha estão vivos e bem e até se acasalando. Hammond quer que Malcolm observe e documente as criaturas antes que mercenários cheguem até eles.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK02",
+                "filmeLink": "/movies/Jurassic-park-2.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK02",
                 "torrent": ""
             },
             "images": {
@@ -322,7 +330,8 @@
             "category": ["Ficção científica", "Ação"],
             "description": "Apesar de ter ficado abalado com seu último encontro com dinossauros vivos, o Dr. Alan Grant (Sam Neill) continua dedicando sua vida a estudá-los e desenvolve uma teoria sobre o desenvolvimento da inteligência dos velociraptors. Desesperado em busca de fundos para dar prosseguimento à sua pesquisa, ele aceita a oferta de Paul (William H. Macy) e Amanda Kirby (Téa Leoni), dois milionários que desejam fazer uma excursão aérea na Ilha Sorna e que querem contratá-lo para acompanhá-los. Porém, durante a viagem, o Dr. Alan Grant descobre a verdadeira intenção dos Kirby, que é descer até a Ilha Sorna para procurar seu filho, que desapareceu no local em uma expedição ocorrida oito semanas antes. Apesar da oposição de Grant, eles pousam na ilha e acabam sendo atacados por uma nova espécie de dinossauro, maior e mais feroz que o tiranossauro rex.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK03",
+                "filmeLink": "/movies/Jurassic-park-3.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK03",
                 "torrent": ""
             },
             "images": {
@@ -338,7 +347,8 @@
             "category": ["Ficção científica", "Ação"],
             "description": "O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados. Entretanto, a equipe chefiada pela doutora Claire passa a fazer experiências genéticas com estes seres, de forma a criar novas espécies. Uma delas adquire inteligência bem mais alta, logo se tornando uma grande ameaça para a existência humana.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCWRLDMNDINO",
+                "filmeLink": "/movies/Jurassic-world.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCWRLDMNDINO",
                 "torrent": ""
             },
             "images": {
