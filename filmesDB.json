@@ -851,6 +851,91 @@
             }
         },
         {
+            "numID": "CVF-VF352-51",
+            "title": "Velozes e Furiosos 5: Operação Rio",
+            "year": "2011",
+            "time": "2h 10m",
+            "category": ["Ação", "Crime"],
+            "description": "Desde que o ex-policial Brian O’Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS05",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CVF-VF353-52",
+            "title": "Velozes e Furiosos 6",
+            "year": "2013",
+            "time": "2h 10m",
+            "category": ["Ação", "Suspense"],
+            "description": "Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com 100 milhões de dólares, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas, cujo mentor é apoiado por Letty, a antiga namorada de Dom que ele acreditava estar morta.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS06",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CVF-VF352-53",
+            "title": "Velozes e Furiosos 7",
+            "year": "2015",
+            "time": "2h 20m",
+            "category": ["Ação", "Thriller"],
+            "description": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS07",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CVF-VF353-54",
+            "title": "Velozes e Furiosos 8",
+            "year": "2017",
+            "time": "2h 16m",
+            "category": ["Ação", "Aventura"],
+            "description": "Depois da aposentadoria de Brian e Mia, Dom e Letty aproveitam a lua de mel e levam uma vida pacata e normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa obriga Dom a retornar ao mundo do crime e da velocidade.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=VLZEFROSOS08",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CVF-VF354-55",
+            "title": "Velozes e Furiosos 9",
+            "year": "2021",
+            "time": "2h 23m",
+            "category": ["Ação", "Aventura"],
+            "description": "Dominic Toretto e Letty vivem uma vida pacata ao lado do filho. Mas eles logo são ameaçados pelo passado de Dom: seu irmão desaparecido Jakob, que retorna e está trabalhando ao lado de Cipher.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=VLZEFROSOS09DUBL",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
@@ -867,6 +952,7 @@
                 "backdrop": ""
             }
         }
+        
         
     ]
 }
