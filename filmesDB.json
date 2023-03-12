@@ -936,6 +936,40 @@
             }
         },
         {
+            "numID": "CUCM-TAT355-56",
+            "title": "Thor: Amor e Trovão",
+            "year": "2022",
+            "time": "1h 59m",
+            "category": ["Ação", "Aventura"],
+            "description": "Thor busca por paz, mas seus planos são interrompidos por Gorr, o Carniceiro dos Deuses, um assassino galáctico. Para combater esta ameaça, ele pede que Rei Valquíria, Korg e Jane Foster o ajudem.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=THORAMRETRVAO",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-PNWS356-57",
+            "title": "Pantera Negra: Wakanda para Sempre",
+            "year": "2022",
+            "time": "2h 41m",
+            "category": ["Ação", "Aventura"],
+            "description": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=PNTRNGRWKNDPRSMPR",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
