@@ -970,6 +970,91 @@
             }
         },
         {
+            "numID": "UMI-MI357-58",
+            "title": "Missão Impossível",
+            "year": "1996",
+            "time": "1h 50m",
+            "category": ["Ação", "Thriller"],
+            "description": "O agente do governo Ethan Hunt e seu mentor, Jim Phelps, embarcam em uma missão secreta que toma um rumo desastroso: Jim é morto e Ethan torna-se o principal suspeito do assassinato.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=MSAOIMPSVEL01",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "UMI-MI358-59",
+            "title": "Missão Impossível 2",
+            "year": "2000",
+            "time": "2h 3m",
+            "category": ["Ação", "Thriller"],
+            "description": "Ethan Hunt retorna para liderar sua equipe em uma missão que pretende capturar um vírus mortal alemão antes que ele seja liberado por terroristas. Sua missão é fazer o impossível, até porque ele não é a única pessoa procurando as amostras da doença.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=MSAOIMPSVEL02",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "UMI-MI359-60",
+            "title": "Missão Impossível 3",
+            "year": "2006",
+            "time": "2h 6m",
+            "category": ["Ação", "Aventura"],
+            "description": "Aposentado do serviço ativo e treinando recrutas para a Força Missão Impossível, o agente Ethan Hunt enfrenta o inimigo mais difícil de sua carreira: Owen Davian, um negociante internacional de armas e informação que é tão esperto quanto implacável.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=MSAOIMPSVEL03",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "UMI-MI360-61",
+            "title": "Missão Impossível 4: Protocolo Fantasma",
+            "year": "2011",
+            "time": "2h 13m",
+            "category": ["Ação", "Thriller"],
+            "description": "Quando a IMF é fechada depois de ser envolvida em um plano terrorista internacional, o agente Ethan Hunt e sua equipe tentam limpar o nome da organização.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=MSAOIMPSVEL04",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "UMI-MI361-62",
+            "title": "Missão Impossível 5: Nação Secreta",
+            "year": "2015",
+            "time": "2h 11m",
+            "category": ["Ação", "Thriller"],
+            "description": "O agente do IMF Ethan Hunt e sua equipe enfrentam uma das missões mais difíceis: erradicar o Sindicato, uma organização secreta internacional de assassinos profissionais que está determinada a destruir o IMF.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=MSAOIMPSVEL05",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
