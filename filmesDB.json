@@ -10,6 +10,7 @@
             "url": {
                 "filmeLink": "/movies/Avatar.html",
                 "filmeServer":"https://sinalpublico.com/player3/serverfhlb.php?vid=AVTR",
+                "filmePage": "/filmes/avatar",
                 "torrent": ""
             },
             "images": {
@@ -43,6 +44,7 @@
             "url": {
                 "filmeLink": "/movies/A-guerra-do-amanha.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=AGRADAMANHA",
+                "filmePage": "/filmes/a-guerra-do-amanha",
                 "torrent": ""
             },
             "images": {
@@ -60,6 +62,7 @@
             "url": {
                 "filmeLink": "/movies/Bem-vinda-a-quixeramobim.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=BMVNDAQXRMBM",
+                "filmePage":"/filmes/bem-vinda-a-quixeramobim",
                 "torrent": ""
             },
             "images": {
@@ -77,6 +80,7 @@
             "url": {
                 "filmeLink": "/movies/Os-4-malfeitores.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=OS4MLFTRS",
+                "filmePage": "/filmes/os-4-malfeitores",
                 "torrent": ""
             },
             "images": {
@@ -94,6 +98,7 @@
             "url": {
                 "filmeLink": "/movies/Homem-de-ferro.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HMNDEFRO01",
+                "filmePage": "/filmes/homem-de-ferro",
                 "torrent": ""
             },
             "images": {
@@ -111,6 +116,7 @@
             "url": {
                 "filmeLink": "/movies/Homem-de-ferro-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HMNDEFRO02",
+                "filmePage": "/filmes/homem-de-ferro-2",
                 "torrent": ""
             },
             "images": {
@@ -128,6 +134,7 @@
             "url": {
                 "filmeLink": "/movies/Homem-de-ferro-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HMNDEFRO03",
+                "filmePage": "/filmes/homem-de-ferro-3",
                 "torrent": ""
             },
             "images": {
@@ -145,6 +152,7 @@
             "url": {
                 "filmeLink": "/movies/Capitao-america-1.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=CAPTAMRC1",
+                "filmePage": "/filmes/capitao-america",
                 "torrent": ""
             },
             "images": {
@@ -162,6 +170,7 @@
             "url": {
                 "filmeLink": "/movies/Capitao-america-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=CAPTAMRC2",
+                "filmePage": "/filmes/capitao-america-2",
                 "torrent": ""
             },
             "images": {
@@ -179,6 +188,7 @@
             "url": {
                 "filmeLink": "/movies/Capitao-america-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=CAPTAMRC3",
+                "filmePage": "/filmes/capitao-america-3",
                 "torrent": ""
             },
             "images": {
@@ -196,6 +206,7 @@
             "url": {
                 "filmeLink": "/movies/Homem-formiga.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=HMNFRMGA",
+                "filmePage": "/filmes/homem-formiga-2",
                 "torrent": ""
             },
             "images": {
@@ -213,6 +224,7 @@
             "url": {
                 "filmeLink": "/movies/Homem-formiga-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=HMNFRMGEVSPA",
+                "filmePage": "/filmes/homem-formiga-2",
                 "torrent": ""
             },
             "images": {
@@ -230,6 +242,7 @@
             "url": {
                 "filmeLink": "/movies/Pantera-negra.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=PNTRNGR",
+                "filmePage": "/filmes/pantera-negra",
                 "torrent": ""
             },
             "images": {
@@ -247,6 +260,7 @@
             "url": {
                 "filmeLink": "/movies/Guardioes-da-galaxia.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=GRDOESDGLXIA",
+                "filmePage": "/filmes/guardioes-da-galaxia",
                 "torrent": ""
             },
             "images": {
@@ -264,6 +278,7 @@
             "url": {
                 "filmeLink": "/movies/Guardioes-da-galaxia-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=GRDOESDGLXIAVL2",
+                "filmePage": "/filmes/guardioes-da-galaxia-2",
                 "torrent": ""
             },
             "images": {
@@ -281,6 +296,7 @@
             "url": {
                 "filmeLink": "/movies/Top-gun.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=TOPGNMVRCK",
+                "filmePage": "/filmes/top-gun",
                 "torrent": ""
             },
             "images": {
@@ -298,6 +314,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-Park.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK01",
+                "filmePage": "/filmes/jurassic-park",
                 "torrent": ""
             },
             "images": {
@@ -315,6 +332,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-Park-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK02",
+                "filmePage": "/filmes/jurassic-park-2",
                 "torrent": ""
             },
             "images": {
@@ -332,6 +350,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-Park-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCPRK03",
+                "filmePage": "/filmes/jurassic-park-3",
                 "torrent": ""
             },
             "images": {
@@ -349,6 +368,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-world.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JRSCWRLDMNDINO",
+                "filmePage": "/filmes/jurassic-world",
                 "torrent": ""
             },
             "images": {
