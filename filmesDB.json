@@ -386,6 +386,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-world-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=JRSCWRLDRNOAMCDO",
+                "filmePage": "/filmes/jurassic-world-2",
                 "torrent": ""
             },
             "images": {
@@ -403,6 +404,7 @@
             "url": {
                 "filmeLink": "/movies/Jurassic-world-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=JRSCWRLDDMNIO",
+                "filmePage": "/filmes/jurassic-world-3",
                 "torrent": ""
             },
             "images": {
@@ -420,6 +422,7 @@
             "url": {
                 "filmeLink": "/movies/Doutor-estranho-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=DRESTNHONMLTVSODLCRALEG",
+                "filmePage": "/filmes/doutor-estranho-2",
                 "torrent": ""
             },
             "images": {
@@ -437,6 +440,7 @@
             "url": {
                 "filmeLink": "/movies/Agente-oculto.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=AGNTOCLTO",
+                "filmePage": "/filmes/agente-oculto",
                 "torrent": ""
             },
             "images": {
@@ -454,6 +458,7 @@
             "url": {
                 "filmeLink": "/movies/Amor-de-redencao.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=AMRDRDNCAO",
+                "filmePage": "/filmes/amor-de-redencao",
                 "torrent": ""
             },
             "images": {
@@ -471,6 +476,7 @@
             "url": {
                 "filmeLink": "/movies/Uncharted.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=UNCRTDFRDMPA",
+                "filmePage": "/filmes/uncharted",
                 "torrent": ""
             },
             "images": {
