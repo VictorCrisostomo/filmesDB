@@ -494,6 +494,7 @@
             "url": {
                 "filmeLink": "/movies/Adao-negro.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=ADAONGRO",
+                "filmePage": "/filmes/adao-negro",
                 "torrent": ""
             },
             "images": {
@@ -511,6 +512,7 @@
             "url": {
                 "filmeLink": "/movies/Jonh-wick.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=DVLTAOJG",
+                "filmePage": "/filmes/jonh-wick",
                 "torrent": ""
             },
             "images": {
@@ -528,6 +530,7 @@
             "url": {
                 "filmeLink": "/movies/Jonh-wick-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=JHNWCKUMNVDIAPRMTR",
+                "filmePage": "/filmes/jonh-wick-2",
                 "torrent": ""
             },
             "images": {
@@ -545,6 +548,7 @@
             "url": {
                 "filmeLink": "/movies/Jonh-wick-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=JHNWCK3LEG",
+                "filmePage": "/filmes/jonh-wick-3",
                 "torrent": ""
             },
             "images": {
@@ -562,6 +566,7 @@
             "url": {
                 "filmeLink": "/movies/Divergente.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=DVRGNT",
+                "filmePage": "/filmes/divergente",
                 "torrent": ""
             },
             "images": {
@@ -579,6 +584,7 @@
             "url": {
                 "filmeLink": "/movies/Divergente-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=ASREDVRGNTISRGNTE",
+                "filmePage": "/filmes/divergente-2",
                 "torrent": ""
             },
             "images": {
@@ -596,6 +602,7 @@
             "url": {
                 "filmeLink": "/movies/Divergente-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=ASREDVRGNTCNVGNT",
+                "filmePage": "/filmes/divergente-3",
                 "torrent": ""
             },
             "images": {
@@ -613,6 +620,7 @@
             "url": {
                 "filmeLink": "/movies/Mad-max.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=MDMXESTDFUR",
+                "filmePage": "/filmes/mad-max",
                 "torrent": ""
             },
             "images": {
@@ -630,6 +638,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR01",
+                "filmePage": "/filmes/harry-potter",
                 "torrent": ""
             },
             "images": {
@@ -647,6 +656,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR02",
+                "filmePage": "/filmes/harry-potter-2",
                 "torrent": ""
             },
             "images": {
@@ -664,6 +674,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR03",
+                "filmePage": "/filmes/harry-potter-3",
                 "torrent": ""
             },
             "images": {
@@ -681,6 +692,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-4.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR04",
+                "filmePage": "/filmes/harry-potter-4",
                 "torrent": ""
             },
             "images": {
@@ -698,6 +710,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-5.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR05",
+                "filmePage": "/filmes/harry-potter-5",
                 "torrent": ""
             },
             "images": {
@@ -715,6 +728,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-6.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR06",
+                "filmePage": "/filmes/harry-potter-6",
                 "torrent": ""
             },
             "images": {
@@ -732,6 +746,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-7.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR07",
+                "filmePage": "/filmes/harry-potter-7",
                 "torrent": ""
             },
             "images": {
@@ -749,6 +764,7 @@
             "url": {
                 "filmeLink": "/movies/Harry-potter-8.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HRYPTR08",
+                "filmePage": "/filmes/harry-potter-8",
                 "torrent": ""
             },
             "images": {
