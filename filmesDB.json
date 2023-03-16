@@ -1188,6 +1188,23 @@
             }
         },
         {
+            "numID": "CSDA-SDA366-67",
+            "title": "O Senhor dos Anéis: A Sociedade do Anel",
+            "year": "2001",
+            "time": "2h 58m",
+            "category": ["Fantasia", "Aventura"],
+            "description": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=OSNHRDSANSASCEDANL",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
