@@ -1206,7 +1206,7 @@
         },
         {
             "numID": "CSDA-SDA367-68",
-            "title": "Senhor dos Anéis: As Duas Torres",
+            "title": "O Senhor dos Anéis: As Duas Torres",
             "year": "2002",
             "time": "2h 59m",
             "category": ["Fantasia", "Aventura"],
@@ -1214,6 +1214,23 @@
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=OSNHRDSANSASDSTRES",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CSDA-SDA368-69",
+            "title": "O Senhor dos Anéis: O Retorno do Rei",
+            "year": "2003",
+            "time": "3h 30m",
+            "category": ["Fantasia", "Aventura"],
+            "description": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=OSNHRDSANSORTNODREI",
                 "torrent": ""
             },
             "images": {
