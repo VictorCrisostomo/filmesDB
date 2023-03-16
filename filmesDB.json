@@ -782,7 +782,7 @@
             "url": {
                 "filmeLink": "/movies/Jogos-vorazes.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZS",
-                "filmePage": "",
+                "filmePage": "/filmes/jogos-vorazes",
                 "torrent": ""
             },
             "images": {
@@ -800,7 +800,7 @@
             "url": {
                 "filmeLink": "/movies/Jogos-vorazes-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSEMCHMS",
-                "filmePage": "",
+                "filmePage": "/filmes/jogos-vorazes-2",
                 "torrent": ""
             },
             "images": {
@@ -818,7 +818,7 @@
             "url": {
                 "filmeLink": "/movies/Jogos-vorazes-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSAESPRPT1",
-                "filmePage": "",
+                "filmePage": "/filmes/jogos-vorazes-3",
                 "torrent": ""
             },
             "images": {
@@ -836,7 +836,7 @@
             "url": {
                 "filmeLink": "/movies/Jogos-vorazes-4.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=JGSVRZSAESPRFNL",
-                "filmePage": "",
+                "filmePage": "/filmes/jogos-vorazes-4",
                 "torrent": ""
             },
             "images": {
@@ -854,7 +854,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS01",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos",
                 "torrent": ""
             },
             "images": {
@@ -872,7 +872,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-2.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS02",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-2",
                 "torrent": ""
             },
             "images": {
@@ -890,7 +890,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-3.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS03",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-3",
                 "torrent": ""
             },
             "images": {
