@@ -780,7 +780,9 @@
             "category": ["Ação", "Ficção científica"],
             "description": "Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZS",
+                "filmeLink": "/movies/Jogos-vorazes.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZS",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -796,7 +798,9 @@
             "category": ["Ação", "Ficção científica"],
             "description": "Após saírem vencedores da última edição dos Jogos Vorazes, as atitudes desafiadoras de Katniss e Peeta acabam inspirando uma rebelião contra a opressiva Capital.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSEMCHMS",
+                "filmeLink": "/movies/Jogos-vorazes-2.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSEMCHMS",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -812,7 +816,9 @@
             "category": ["Ação", "Ficção científica"],
             "description": "Após sobreviver à temível arena dos Jogos Vorazes, Katniss Everdeen está desanimada e destruída.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSAESPRPT1",
+                "filmeLink": "/movies/Jogos-vorazes-3.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=JGSVRZSAESPRPT1",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -828,7 +834,9 @@
             "category": ["Ação", "Ficção científica"],
             "description": "Katniss e seus amigos Peeta, Gale e Finnick embarcam em sua última missão: organizar uma resistência contra o presidente e libertar o povo de Panem.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverf2hlb.php?vid=JGSVRZSAESPRFNL",
+                "filmeLink": "/movies/Jogos-vorazes-4.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=JGSVRZSAESPRFNL",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -844,7 +852,9 @@
             "category": ["Crime", "Thriller", "Ação"],
             "description": "Brian O'Conner é um policial que se infiltra no submundo dos rachas de rua para investigar uma série de furtos.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS01",
+                "filmeLink": "/movies/Velozes-e-furiosos.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS01",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -860,7 +870,9 @@
             "category": ["Ação", "Crime"],
             "description": "O ex-policial Brian O'Conner se muda de Los Angeles para Miami para recomeçar sua vida.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS02",
+                "filmeLink": "/movies/Velozes-e-furiosos-2.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS02",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
@@ -876,7 +888,9 @@
             "category": ["Ação", "Drama"],
             "description": "Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida.",
             "url": {
-                "filme": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS03",
+                "filmeLink": "/movies/Velozes-e-furiosos-3.html",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS03",
+                "filmePage": "",
                 "torrent": ""
             },
             "images": {
