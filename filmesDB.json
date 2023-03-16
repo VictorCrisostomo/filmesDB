@@ -1205,6 +1205,23 @@
             }
         },
         {
+            "numID": "CSDA-SDA367-68",
+            "title": "Senhor dos Anéis: As Duas Torres",
+            "year": "2002",
+            "time": "2h 59m",
+            "category": ["Fantasia", "Aventura"],
+            "description": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=OSNHRDSANSASDSTRES",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
