@@ -1307,6 +1307,23 @@
             }
         },
         {
+            "numID": "BATVSSM373-74",
+            "title": "Batman Vs Superman: A origem da Justiça",
+            "year": "2016",
+            "time": "2h 31m",
+            "category": ["Ação", "Aventura"],
+            "description": "O confronto entre Superman e Zod em Metrópolis fez a população mundial se dividir sobre a presença de extraterrestres na Terra.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=BTMNVSPRMNAODJT",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
