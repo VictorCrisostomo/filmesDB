@@ -1273,6 +1273,23 @@
             }
         },
         {
+            "numID": "CSDA-HBBT371-72",
+            "title": "O Hobbit: A Batalha dos Cincos Exércitos",
+            "year": "2014",
+            "time": "2h 24m",
+            "category": ["Aventura", "Fantasia"],
+            "description": "O dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=OHBTABTLHDSCNCEXRCTS",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
