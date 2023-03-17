@@ -1239,6 +1239,23 @@
             }
         },
         {
+            "numID": "CSDA-HBBT369-70",
+            "title": "O Hobbit: Uma Jornada Inesperada",
+            "year": "2012",
+            "time": "2h 49m",
+            "category": ["Aventura", "Fantasia"],
+            "description": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=OHBTUJRNINSPRD",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
