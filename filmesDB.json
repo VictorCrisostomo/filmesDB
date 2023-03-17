@@ -1358,6 +1358,23 @@
             }
         },
         {
+            "numID": "VN376-77",
+            "title": "Viúva Negra",
+            "year": "2021",
+            "time": "2h 13m",
+            "category": ["Ação", "Aventura"],
+            "description": "Ao nascer, a Viúva Negra, então conhecida como Natasha Romanova, é entregue à KGB, que a prepara para se tornar sua agente suprema.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=VIUVNGRA",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
