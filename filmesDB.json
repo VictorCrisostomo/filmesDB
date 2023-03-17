@@ -1324,6 +1324,23 @@
             }
         },
         {
+            "numID": "TN374-75",
+            "title": "As Tartarugas Ninja",
+            "year": "2014",
+            "time": "1h 41m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Um grupo de tartarugas é afetado por uma substância radioativa, ganha força, conhecimento e cresce.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=ASTARTGUSNJS",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
