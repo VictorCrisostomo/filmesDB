@@ -1256,6 +1256,23 @@
             }
         },
         {
+            "numID": "CSDA-HBBT370-71",
+            "title": "O Hobbit: A Desolação de Smaug",
+            "year": "2013",
+            "time": "2h 41m",
+            "category": ["Aventura", "Fantasia"],
+            "description": "Ao lado de um grupo de anões e de Gandalf, Bilbo segue em direção à Montanha Solitária, onde deverá ajudar seus companheiros a retomar a Pedra de Arken.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=OHBTADSLCDSMG",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
