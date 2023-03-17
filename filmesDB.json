@@ -1290,6 +1290,23 @@
             }
         },
         {
+            "numID": "BAT372-73",
+            "title": "Batman",
+            "year": "2022",
+            "time": "2h 56m",
+            "category": ["Ação", "Aventura"],
+            "description": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=BTMN",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
