@@ -1512,11 +1512,11 @@
         },
         {
             "numID": "CSWRS-NE385-86",
-            "title": "Star Wars: Episódio IV Uma Nova Esperança",
+            "title": "Star Wars: Episódio IV - Uma Nova Esperança",
             "year": "1977",
             "time": "2h 1m",
             "category": ["Ficção científica"],
-            "description": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader.",
+            "description": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader, Luke Skywalker e o capitão Han Solo precisam libertá-la.",
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSIV",
@@ -1528,15 +1528,15 @@
             }
         },
         {
-            "numID": "",
-            "title": "",
-            "year": "",
-            "time": "",
-            "category": ["", ""],
-            "description": "",
+            "numID": "CSWRS-ICA386-87",
+            "title": "Star Wars: Episódio V - O Império Contra-Ataca",
+            "year": "1980",
+            "time": "2h 4m",
+            "category": ["Ficção científica", "Aventura"],
+            "description": "Yoda treina Luke Skywalker para ser um cavaleiro Jedi. Han Solo corteja a Princesa Leia enquanto Darth Vader retorna para combater as forças rebeldes que tentam salvar a galáxia.",
             "url": {
                 "filmeLink": "",
-                "filmeServer": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSV",
                 "torrent": ""
             },
             "images": {
