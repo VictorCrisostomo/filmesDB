@@ -1394,6 +1394,57 @@
         {
             "numID": "CUCM-CM378-79",
             "title": "Capitã Marvel",
+            "year": "2019",
+            "time": "2h 4m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=CPTMRVL",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CM379-80",
+            "title": "Respire Fundo",
+            "year": "2022",
+            "time": "1h 46m",
+            "category": ["Drama"],
+            "description": "Julie é uma escritora de livros infantis que falam sobre desvendar os medos da infância, mas ela ainda não desvendou o segredo sombrio que a assombrou por toda a sua vida.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=RSPREFNDO",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "",
+            "title": "",
+            "year": "",
+            "time": "",
+            "category": ["", ""],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "",
+            "title": "",
             "year": "",
             "time": "",
             "category": ["", ""],
