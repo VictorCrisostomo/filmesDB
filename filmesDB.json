@@ -1563,7 +1563,7 @@
         },
         {
             "numID": "CSWRS-AF388-89",
-            "title": "Star Wars: Episódio I - A Ameaça Fantasma ",
+            "title": "Star Wars: Episódio I - A Ameaça Fantasma",
             "year": "1999",
             "time": "2h 16m",
             "category": ["Ficção científica", "Aventura"],
@@ -1571,6 +1571,23 @@
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSI",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CSWRS-ADC389-90",
+            "title": "Star Wars: Episódio II - Ataque dos Clones",
+            "year": "2h 22m",
+            "time": "2002",
+            "category": ["Ficção científica", "Ação"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSII",
                 "torrent": ""
             },
             "images": {
