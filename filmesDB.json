@@ -1584,10 +1584,27 @@
             "year": "2h 22m",
             "time": "2002",
             "category": ["Ficção científica", "Ação"],
-            "description": "",
+            "description": "Tentado por promessas de poder, Anakin Skywalker se aproxima de Darth Sidious e participa de um plano para acabar com os Cavaleiros Jedi.",
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSII",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CSWRS-ADS390-91",
+            "title": "Star Wars: Episódio III - A Vigança dos Sith",
+            "year": "2005",
+            "time": "2h 20m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSIII",
                 "torrent": ""
             },
             "images": {
