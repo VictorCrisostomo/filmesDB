@@ -1511,6 +1511,40 @@
             }
         },
         {
+            "numID": "CSWRS-NE385-86",
+            "title": "Star Wars: Episódio IV Uma Nova Esperança",
+            "year": "1977",
+            "time": "2h 1m",
+            "category": ["Ficção científica"],
+            "description": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSIV",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "",
+            "title": "",
+            "year": "",
+            "time": "",
+            "category": ["", ""],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
