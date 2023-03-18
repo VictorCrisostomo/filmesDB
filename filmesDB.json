@@ -1681,6 +1681,40 @@
             }
         },
         {
+            "numID": "CMATX-MTRX395-96",
+            "title": "Matrix",
+            "year": "1999",
+            "time": "2h 16m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=MTRX",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CMATX-MTRX396-97",
+            "title": "Matrix Reloaded",
+            "year": "2003",
+            "time": "2h 18m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=MTRXRLD",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
