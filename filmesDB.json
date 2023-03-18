@@ -1613,6 +1613,23 @@
             }
         },
         {
+            "numID": "CSWRS-ODF391-92",
+            "title": "Star Wars: Episódio VII - O Despertar da Força",
+            "year": "2015",
+            "time": "2h 16m",
+            "category": ["Ficção científica", "Aventura"],
+            "description": "A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=STRWRSVII",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
