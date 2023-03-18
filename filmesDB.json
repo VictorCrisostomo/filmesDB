@@ -1545,6 +1545,57 @@
             }
         },
         {
+            "numID": "CSWRS-ORJ387-88",
+            "title": "Star Wars: Episódio VI - O Retorno de Jedi",
+            "year": "1983",
+            "time": "2h 11m",
+            "category": ["Ficção científica", "Aventura"],
+            "description": "Luke Skywalker e seus amigos viajam para Tatooine e salvam seu amigo Han Solo do lorde do crime Jabba o Hutt.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSVI",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CSWRS-AF388-89",
+            "title": "Star Wars: Episódio I - A Ameaça Fantasma ",
+            "year": "1999",
+            "time": "2h 16m",
+            "category": ["Ficção científica", "Aventura"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=STRWRSI",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "",
+            "title": "",
+            "year": "",
+            "time": "",
+            "category": ["", ""],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
