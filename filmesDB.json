@@ -1630,6 +1630,23 @@
             }
         },
         {
+            "numID": "CSWRS-ROHSW392-93",
+            "title": "Rogue One: Uma História Star Wars",
+            "year": "2016",
+            "time": "2h 13m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "A Aliança Rebelde recruta Jyn Erso para sua causa depois de saber que o Império está construindo uma arma poderosa chamada Estrela da Morte.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=RGONUHSTRWRS",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
