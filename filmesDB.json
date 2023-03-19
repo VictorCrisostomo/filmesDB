@@ -1766,6 +1766,23 @@
             }
         },
         {
+            "numID": "CDVPF-VPF3100-101",
+            "title": "De Volta para o Futuro 2",
+            "year": "1989",
+            "time": "1h 48m",
+            "category": ["Ficção científica", "Comédia"],
+            "description": "Marty McFly e o cientista Doc Brown viajam de 1985 a 2015 para evitar que o filho de Marty estrague o futuro da família McFly.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=DVLTPROFUT2",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
