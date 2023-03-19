@@ -1868,6 +1868,23 @@
             }
         },
         {
+            "numID": "CEDF-EFG3106-107",
+            "title": "O Exterminador do Futuro: Gênesis",
+            "year": "2015",
+            "time": "2h 6m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "John Connor, líder da resistência humana contra Skynet, envia Kyle Reese de volta a 1984 para proteger sua mãe, Sarah.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=OEXTRMDRDFUT5",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
