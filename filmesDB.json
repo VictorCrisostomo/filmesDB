@@ -1834,7 +1834,7 @@
             }
         },
         {
-            "numID": "CEDF-EF3104-105",
+            "numID": "CEDF-EFRM3104-105",
             "title": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
             "year": "2003",
             "time": "1h 49m",
@@ -1843,6 +1843,23 @@
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=OEXTRMDRDFUT03",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CEDF-EFS3105-106",
+            "title": "O Exterminador do Futuro: A Salvação",
+            "year": "2009",
+            "time": "1h 55m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=OEXTRMDRDFUT4",
                 "torrent": ""
             },
             "images": {
@@ -1884,6 +1901,7 @@
                 "backdrop": ""
             }
         }
+        
         
         
     ]
