@@ -1788,10 +1788,27 @@
             "year": "1990",
             "time": "1h 58m",
             "category": ["Ficção científica", "Faroeste"],
-            "description": "",
+            "description": "Marty recebe uma mensagem do Dr. Emmett Brown, na qual ele informa que agora vive em uma pequena cidade do Velho Oeste, em 1885.",
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=DVLTPROFUT3",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CEDF-EF3102-103",
+            "title": "O Exterminador do Futuro",
+            "year": "1985",
+            "time": "1h 47m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "Disfarçado de humano, o assassino conhecido como o Exterminador (Arnold Schwarzenegger) viaja de 2029 a 1984 para matar Sarah Connor (Linda Hamilton).",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=OEXTRMDRDFUT1",
                 "torrent": ""
             },
             "images": {
