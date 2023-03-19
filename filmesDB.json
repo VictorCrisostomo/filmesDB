@@ -1834,6 +1834,23 @@
             }
         },
         {
+            "numID": "CEDF-EF3104-105",
+            "title": "O Exterminador do Futuro 3: A Rebelião das Máquinas",
+            "year": "2003",
+            "time": "1h 49m",
+            "category": ["Ficção científica", "Ação"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=OEXTRMDRDFUT03",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
