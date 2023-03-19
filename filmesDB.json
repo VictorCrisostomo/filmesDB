@@ -1783,6 +1783,23 @@
             }
         },
         {
+            "numID": "CDVPF-VPF3101-102",
+            "title": "De Volta para o Futuro 3",
+            "year": "1990",
+            "time": "1h 58m",
+            "category": ["Ficção científica", "Faroeste"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=DVLTPROFUT3",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
