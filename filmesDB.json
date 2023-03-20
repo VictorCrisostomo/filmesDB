@@ -1919,7 +1919,7 @@
             }
         },
         {
-            "numID": "CRB-RUL3108-109",
+            "numID": "CRB-RAR3108-109",
             "title": "Rocky II: A revanche",
             "year": "1979",
             "time": "1h 59m",
@@ -1936,15 +1936,15 @@
             }
         },
         {
-            "numID": "",
-            "title": "",
-            "year": "",
-            "time": "",
-            "category": ["", ""],
-            "description": "",
+            "numID": "CRB-RDS3109-110",
+            "title": "Rocky III: O Desafio Supremo",
+            "year": "1982",
+            "time": "1h 39m",
+            "category": ["Esporte", "Drama"],
+            "description": "Depois de ter sido derrotado pelo arrogante Clubber Lang, Rocky Balboa decide reconquistar o título de campeão de pesos pesados e se prepara para uma revanche.",
             "url": {
                 "filmeLink": "",
-                "filmeServer": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=RCKY3",
                 "torrent": ""
             },
             "images": {
