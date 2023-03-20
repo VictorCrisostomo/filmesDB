@@ -2004,6 +2004,57 @@
             }
         },
         {
+            "numID": "CPDC-MDPN3113-114",
+            "title": "Piratas do Caribe: A Maldição do Pérola Negra",
+            "year": "2003",
+            "time": "2h 23m",
+            "category": ["Aventura", "Ação"],
+            "description": "O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando a filha do governador.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CPDC-OBDM3114-115",
+            "title": "Piratas do Caribe: O Baú da Morte",
+            "year": "2006",
+            "time": "2h 31m",
+            "category": ["Aventura", "Ação"],
+            "description": "Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante de um invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CPDC-NFDM3115-116",
+            "title": "Piratas do Caribe: No Fim do Mundo",
+            "year": "2007",
+            "time": "2h 48m",
+            "category": ["Aventura", "Ação"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
