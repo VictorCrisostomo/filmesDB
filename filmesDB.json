@@ -2055,6 +2055,40 @@
             }
         },
         {
+            "numID": "CPDC-NEAP3116-117",
+            "title": "Piratas do Caribe: Navegando em Águas Misteriosas",
+            "year": "2011",
+            "time": "2h 21m",
+            "category": ["Aventura", "Ação"],
+            "description": "O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angélica, uma bonita pirata que Jack, um dia, amou e depois abandonou.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CPDC-AVDS3117-118",
+            "title": "Piratas do Caribe: A Vingança de Salazar",
+            "year": "2017",
+            "time": "2h 9m",
+            "category": ["Aventura", "Ação"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
