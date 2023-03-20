@@ -1902,6 +1902,40 @@
             }
         },
         {
+            "numID": "CRB-RUL3108-109",
+            "title": "Rocky I: Um lutador",
+            "year": "1976",
+            "time": "1h 59m",
+            "category": ["Esporte", "Drama"],
+            "description": "Rocky Balboa, um pequeno boxeador da classe trabalhadora da Filadélfia, é arbitrariamente escolhido para lutar contra o campeão dos pesos pesados, Apollo Creed.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=RCKY1",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CRB-RUL3108-109",
+            "title": "Rocky II: A revanche",
+            "year": "1979",
+            "time": "1h 59m",
+            "category": ["Esporte", "Drama"],
+            "description": "Após a luta contra Apollo Creed, Rocky promete à sua esposa largar os ringues. Mas os fãs de boxe insistem em uma revanche entre os dois pugilistas.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=RCKY2",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
@@ -1935,6 +1969,7 @@
                 "backdrop": ""
             }
         }
+        
         
         
         
