@@ -2090,7 +2090,7 @@
         },
         {
             "numID": "CTRFMS-TRSF3118-119",
-            "title": "Transformers 1 - O Filme",
+            "title": "Transformers 1: O Filme",
             "year": "2007",
             "time": "2h 24m",
             "category": ["Ação", "Ficção"],
@@ -2107,7 +2107,7 @@
         },
         {
             "numID": "CTRFMS-TRSF23119-120",
-            "title": "Transformers 2 - A Vingança dos Derrotados",
+            "title": "Transformers 2: A Vingança dos Derrotados",
             "year": "2009",
             "time": "2h 30m",
             "category": ["Ação", "Ficção"],
@@ -2124,7 +2124,7 @@
         },
         {
             "numID": "CTRFMS-TRSF33120-121",
-            "title": "Transformers 3 - O Lado Oculto da Lua",
+            "title": "Transformers 3: O Lado Oculto da Lua",
             "year": "2011",
             "time": "2h 34m",
             "category": ["Ficção científica", "Ação"],
@@ -2141,7 +2141,7 @@
         },
         {
             "numID": "CTRFMS-TRSF43121-122",
-            "title": "Transformers 4 - A Era da Extinção",
+            "title": "Transformers 4: A Era da Extinção",
             "year": "2014",
             "time": "2h 45m",
             "category": ["Ação", "Ficção científica"],
@@ -2149,6 +2149,40 @@
             "url": {
                 "filmeLink": "",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=TNSFRMRS04",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CTRFMS-TRSF53122-123",
+            "title": "Transformers 5: O Último Cavalheiro",
+            "year": "2017",
+            "time": "2h 34m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "O gigante Optimus Prime embarca em uma das missões mais difíceis de sua vida: encontrar, no espaço sideral, os Quintessons, seres que possivelmente são os responsáveis pela criação da raça Transformers.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=TNSFRMRS05",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CTRFMS-BUBB3123-124",
+            "title": "Bumblebee",
+            "year": "2018",
+            "time": "1h 54m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf2hlb.php?vid=BUMBLE",
                 "torrent": ""
             },
             "images": {
