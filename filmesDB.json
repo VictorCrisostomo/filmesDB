@@ -2191,6 +2191,91 @@
             }
         },
         {
+            "numID": "RSGT3124-125",
+            "title": "Resgate",
+            "year": "2020",
+            "time": "1h 56m",
+            "category": ["Ação", "Thriller"],
+            "description": "Em Bangladesh, o mercenário do mercado negro Tyler Rake luta para sobreviver durante a missão para resgatar o filho sequestrado de um chefe do crime internacional.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=RSGTE",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CCDN-OLAFEGR3125-126",
+            "title": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+            "year": "2005",
+            "time": "2h 30m",
+            "category": ["Fantasia", "Aventura"],
+            "description": "Durante a Segunda Guerra Mundial, 4 irmãos ingleses são enviados para uma casa onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=ASCRNCSDNRNOLEAFETEOGRDRP",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CCDN-OLAFEGR3126-127",
+            "title": "As Crônicas de Nárnia: Príncipe Caspian",
+            "year": "2008",
+            "time": "2h 30m",
+            "category": ["Fantasia", "Aventura"],
+            "description": "Um ano após a sua última aventura, os irmãos Pevensie regressam à terra mágica de Nárnia e descobrem que 1300 anos se passaram.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=ASCRNCSDNRNPRNCPCASPAN",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CCDN-AVPDA3127-128",
+            "title": "As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada",
+            "year": "2010",
+            "time": "1h 55m",
+            "category": ["Aventura", "Fantasia"],
+            "description": "Lucy, Edmund e Eustace se encontram com o rei Caspian e outros amigos e começam uma nova aventura a bordo do navio O Peregrino da Alvorada para encontrar os Lordes Desaparecidos de Telmar.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=ASCRNCSDNRNAVGMDPRGNDALV",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-OIH3128-129",
+            "title": "O Incrível Hulk",
+            "year": "2008",
+            "time": "1h 52m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "O cientista Bruce Banner se esconde no Brasil enquanto busca desesperadamente a cura da mutação que o transforma em um monstro incontrolável.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=OINCVLHLK",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
