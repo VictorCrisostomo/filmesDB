@@ -2412,12 +2412,29 @@
             }
         },
         {
-            "numID": "",
-            "title": "",
-            "year": "",
-            "time": "",
-            "category": ["", ""],
-            "description": "",
+            "numID": "CUCM-HADVAL3137-138",
+            "title": "Homem Aranha: De Volta ao Lar",
+            "year": "2017",
+            "time": "2h 13m",
+            "category": ["Ação", "Aventura"],
+            "description": "Depois de lutar ao lado dos Vingadores, chegou a hora do jovem Peter Parker voltar para casa em Nova York ao lado de sua tia May, sob o olhar atento do mentor Tony Stark.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=HOMARNHDVLTALR",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-HALDC3138-139",
+            "title": "Homem Aranha: Longe de Casa",
+            "year": "2019",
+            "time": "2h 10m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury e convocado para mais uma missão heróica.",
             "url": {
                 "filmeLink": "",
                 "filmeServer": "",
