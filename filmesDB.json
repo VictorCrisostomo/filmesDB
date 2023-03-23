@@ -2437,6 +2437,57 @@
             "description": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury e convocado para mais uma missão heróica.",
             "url": {
                 "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=HMEMARNHLNGDCSA",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-HASVPC3139-140",
+            "title": "Homem Aranha: Sem Volta para Casa",
+            "year": "2021",
+            "time": "2h 28m",
+            "category": ["Ação", "Aventura"],
+            "description": "",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=HMEMARNHSMVLTPRCSA",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-SHACHI3140-141",
+            "title": "Shang-Chi e a Lenda dos Dez Anéis",
+            "year": "2021",
+            "time": "2h 12m",
+            "category": ["Ação", "Aventura"],
+            "description": "Shang-Chi é o filho do líder de uma organização criminosa poderosa. O rapaz foi criado desde criança para ser um guerreiro, mas decidiu abandonar esse caminho e fugiu para viver uma vida pacífica.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=SNGCHEALNDSDZANS",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-ETER3141-142",
+            "title": "Eternos",
+            "year": "2021",
+            "time": "2h 37m",
+            "category": ["Ação", "Fantasia"],
+            "description": "Os Eternos são uma raça de seres imortais que viveram durante a antiguidade da Terra, moldando sua história e suas civilizações enquanto batalhavam os malignos Deviantes.",
+            "url": {
+                "filmeLink": "",
                 "filmeServer": "",
                 "torrent": ""
             },
