@@ -2327,6 +2327,91 @@
             }
         },
         {
+            "numID": "CUCM-OVIN3132-133",
+            "title": "Os Vingadores",
+            "year": "2012",
+            "time": "2h 23m",
+            "category": ["Aventura", "Ação"],
+            "description": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=OSVGDRS",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-VEDU3133-134",
+            "title": "Vingadores: Era de Ultron",
+            "year": "2015",
+            "time": "2h 21m",
+            "category": ["Ação", "Aventura"],
+            "description": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=VNGDRSEDURON",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-VGI3134-135",
+            "title": "Vingadores: Guerra Infinita",
+            "year": "2018",
+            "time": "2h 29m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Homem de Ferro, Capitão América, Thor, Hulk e os Vingadores se unem para combater o maligno Thanos.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=VNGDRSGRAINFNT",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-VULT3135-136",
+            "title": "Vingadores: Ultimato",
+            "year": "2019",
+            "time": "3h 2m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VNGDRSULTMTO",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-DESTR3136-137",
+            "title": "Doutor Estranho",
+            "year": "2016",
+            "time": "1h 55m",
+            "category": ["Ação", "Aventura"],
+            "description": "Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf3hlb.php?vid=DRESTNHO",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
