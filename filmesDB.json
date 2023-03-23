@@ -2276,6 +2276,57 @@
             }
         },
         {
+            "numID": "CUCM-THR3129-130",
+            "title": "Thor",
+            "year": "2011",
+            "time": "1h 54m",
+            "category": ["Ação", "Fantasia"],
+            "description": "Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor tem que impedir os inimigos.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=THOR",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-TOMS3130-131",
+            "title": "Thor: O Mundo Sombrio",
+            "year": "2013",
+            "time": "1h 52m",
+            "category": ["Ação", "Aventura"],
+            "description": "Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=THOROMNDSBR",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
+            "numID": "CUCM-THRA3131-132",
+            "title": "Thor: Ragnarok",
+            "year": "2017",
+            "time": "2h 10m",
+            "category": ["Ação", "Ficção científica"],
+            "description": "Thor retorna para casa e descobre que seu pai, Odin, rei de Asgard, está desaparecido. Após encontrá-lo, ele toma conhecimento de sua irmã mais velha.",
+            "url": {
+                "filmeLink": "",
+                "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=THORAGORK",
+                "torrent": ""
+            },
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            }
+        },
+        {
             "numID": "",
             "title": "",
             "year": "",
