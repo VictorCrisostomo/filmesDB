@@ -912,7 +912,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-furiosos-4.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf4.jpg"
             }
         },
         {
@@ -929,7 +929,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-furiosos-5.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf5.jpg"
             }
         },
         {
@@ -946,7 +946,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-Furiosos-6.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf6.jpg"
             }
         },
         {
@@ -963,7 +963,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-Furiosos-7.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf7.jpg"
             }
         },
         {
@@ -980,7 +980,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-furiosos-8.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf8.jpg"
             }
         },
         {
@@ -997,7 +997,7 @@
             },
             "images": {
                 "poster": "/posts/Velozes-e-furiosos-9.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/vf9.jpg"
             }
         },
         {
@@ -1014,7 +1014,7 @@
             },
             "images": {
                 "poster": "/posts/thor-amor-e-trovao.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/thor3.jpg"
             }
         },
         {
@@ -1030,8 +1030,8 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
-                "backdrop": ""
+                "poster": "/posts/Pantera-Negra-Wakanda-Pra-Sempre.jpg",
+                "backdrop": "/backdrops/pantera2.jpg"
             }
         },
         {
@@ -1048,7 +1048,7 @@
             },
             "images": {
                 "poster": "/posts/Missao-Impossivel-1.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/msi1.jpg"
             }
         },
         {
@@ -1065,7 +1065,7 @@
             },
             "images": {
                 "poster": "/posts/Missao-impossivel-2.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/msi2.jpg"
             }
         },
         {
@@ -1082,7 +1082,7 @@
             },
             "images": {
                 "poster": "/posts/Missao-impossivel-3.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/msi3.jpg"
             }
         },
         {
@@ -1099,7 +1099,7 @@
             },
             "images": {
                 "poster": "/posts/missao-impossivel4-protocolo-fantasma.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/msi4.jpg"
             }
         },
         {
@@ -1133,7 +1133,7 @@
             },
             "images": {
                 "poster": "/posts/Missao-Impossivel-6-Efeito-Fallout.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/msi6.jpg"
             }
         },
         {
@@ -1150,7 +1150,7 @@
             },
             "images": {
                 "poster": "/posts/Um-tira-muito-suspeito.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/umtirasuspeito.jpg"
             }
         },
         {
@@ -1167,7 +1167,7 @@
             },
             "images": {
                 "poster": "/posts/Missao-Quase-Impossivel.jpg",
-                "backdrop": ""
+                "backdrop": "/backdrops/mqi.jpg"
             }
         },
         {
@@ -1183,8 +1183,8 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
-                "backdrop": ""
+                "poster": "/posts/Operacao-Baba.jpg",
+                "backdrop": "/backdrops/operacaobaba.jpg"
             }
         },
         {
@@ -1200,8 +1200,8 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
-                "backdrop": ""
+                "poster": "/posts/O-Senhor-dos-Aneis-A-Sociedade-do-Anel.jpg",
+                "backdrop": "/backdrops/senhordosaneis1.jpg"
             }
         },
         {
@@ -1217,8 +1217,8 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
-                "backdrop": ""
+                "poster": "/posts/O-Senhor-dos-Aneis-As-Duas-Torres.jpg",
+                "backdrop": "/backdrops/senhordosaneis2.jpg"
             }
         },
         {
@@ -1234,8 +1234,8 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
-                "backdrop": ""
+                "poster": "/posts/O-Senhor-dos-Aneis-O-Retorno-do-Rei.jpg",
+                "backdrop": "/backdrops/senhordosaneis3.jpg"
             }
         },
         {
@@ -1251,7 +1251,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/O-Hobbit-Uma-Jornada-Inesperada.jpg",
                 "backdrop": ""
             }
         },
@@ -1268,7 +1268,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/O-Hobbit-A-Desolacao-de-Smaug.jpg",
                 "backdrop": ""
             }
         },
@@ -1285,7 +1285,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/O-Hobbit-A-Batalha-dos-Cinco-Exercitos.jpg",
                 "backdrop": ""
             }
         },
@@ -1421,7 +1421,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Respire-fundo.jpg",
                 "backdrop": ""
             }
         },
@@ -1472,7 +1472,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/O-ultimato-bourne.jpg",
                 "backdrop": ""
             }
         },
@@ -1489,7 +1489,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/O-legado-bourne.jpg",
                 "backdrop": ""
             }
         },
@@ -2016,7 +2016,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Piratas-do-Caribe-1-A-maldicao-do-perola-negra.jpg",
                 "backdrop": ""
             }
         },
@@ -2033,7 +2033,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Piratas-do-Caribe-2-O-Bau-da-Morte.jpg",
                 "backdrop": ""
             }
         },
@@ -2050,7 +2050,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Piratas-do-Caribe-3-No-fim-do-Mundo.jpg",
                 "backdrop": ""
             }
         },
@@ -2067,7 +2067,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Piratas-do-caribe-4-Navegando-em-aguas-misteriosas.jpg",
                 "backdrop": ""
             }
         },
@@ -2084,13 +2084,13 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Piratas-do-caribe-5-A-vinganca-de-Salazar.jpg",
                 "backdrop": ""
             }
         },
         {
             "numID": "CTRFMS-TRSF3118-119",
-            "title": "Transformers 1: O Filme",
+            "title": "Transformers: O Filme",
             "year": "2007",
             "time": "2h 24m",
             "category": ["Ação", "Ficção"],
@@ -2101,7 +2101,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Transformers-1.jpg",
                 "backdrop": ""
             }
         },
@@ -2118,7 +2118,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Transformers-2-A-vinganca-dos-derrotados.jpg",
                 "backdrop": ""
             }
         },
@@ -2135,7 +2135,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Transformers-3-O-lado-oculto-da-lua.jpg",
                 "backdrop": ""
             }
         },
@@ -2152,7 +2152,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Transformers-4-A-era-da-Extincao.jpg",
                 "backdrop": ""
             }
         },
@@ -2169,7 +2169,7 @@
                 "torrent": ""
             },
             "images": {
-                "poster": "",
+                "poster": "/posts/Transformers-5-O-ultimo-Cavalheiro.jpg",
                 "backdrop": ""
             }
         },
