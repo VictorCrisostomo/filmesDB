@@ -908,7 +908,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-4.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS04",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-4",
                 "torrent": ""
             },
             "images": {
@@ -926,7 +926,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-5.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS05",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-5",
                 "torrent": ""
             },
             "images": {
@@ -944,7 +944,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-6.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS06",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-6",
                 "torrent": ""
             },
             "images": {
@@ -962,7 +962,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-7.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverfhlb.php?vid=VLZEFROSOS07",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-7",
                 "torrent": ""
             },
             "images": {
@@ -980,7 +980,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-8.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf4hlb.php?vid=VLZEFROSOS08",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-8",
                 "torrent": ""
             },
             "images": {
@@ -998,7 +998,7 @@
             "url": {
                 "filmeLink": "/movies/Velozes-e-furiosos-9.html",
                 "filmeServer": "https://sinalpublico.com/player3/serverf5hlb.php?vid=VLZEFROSOS09DUBL",
-                "filmePage": "",
+                "filmePage": "/filmes/velozes-e-furiozos-9",
                 "torrent": ""
             },
             "images": {
